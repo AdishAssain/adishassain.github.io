@@ -6,10 +6,10 @@ I am Adish Assain Illikkal, a masters student at the [Indian Institute of Scienc
 I have previously worked with Apte on the mathematical concept of the resilience of dynamical systems. I have also worked on identification of network topology from climate data to study Indian Summer Monsoon. I am also familiar with DS tools which rely on bayesianism like monte carlo markov chain (MCMC).
 
 
-I like working in a collaborative and interdisciplinary environment. I believe in bridging the epistemological gap between different disciplines for collective problem solving. Conflicts arising due to difference in understanding of concepts are inevitable but it should not be barrier for constructive conversations. I favour methodological pluralism rather than unification ambition.
+I like working in a collaborative and interdisciplinary environment. I believe in bridging the epistemological gap between different disciplines for collective problem solving. Conflicts arising due to difference in understanding of concepts are inevitable but it should not be barrier for constructive conversations. 
 
 
-My favourite letter is C. I like a lot of words with C. I also like reading excerpts of continental philosophers like Gilles Deleuze. I am a fan of social commentary podcasts, top-class cinema, hip-hop, world music, pre-modern art/architecture.
+My favourite letter is C. I like a lot of words with C. I also like reading excerpts of continental philosophers like Gilles Deleuze. I am a fan of social commentary podcasts, top-class cinema, hip-hop, world music, pre-modern aesthetics.
 
 
 
