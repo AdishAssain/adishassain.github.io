@@ -9,7 +9,7 @@ I have previously worked with Apte on the mathematical concept of the resilience
 I like working in a collaborative and interdisciplinary environment. I believe in bridging the epistemological gap between different disciplines for collective problem solving. Conflicts arising due to difference in understanding of concepts are inevitable but it should not be barrier for constructive conversations. 
 
 
-My favourite letter is C. I like a lot of words with C. I also like reading excerpts of continental philosophers like Gilles Deleuze. I am a fan of social commentary podcasts, top-class cinema, hip-hop, world music, pre-modern aesthetics.
+I like a lot of words with C. I also like reading excerpts of continental philosophers like Gilles Deleuze. I am a fan of social commentary podcasts, top-class cinema, hip-hop, world music, pre-modern aesthetics.
 
 
 
