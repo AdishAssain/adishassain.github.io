@@ -73,6 +73,6 @@
 - https://time.com/6176998/india-heatwaves-western-architecture/
 - https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/
 - https://en.wikipedia.org/wiki/Regulatory_capture
-- [Tutorial- Python Modules](How To Write Modules in Python 3)
+- [Tutorial- Python Modules](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
 - [Master Equation- Statistical Physics](https://statisticalphysics.leima.is/nonequilibrium/master-eqn.html)
 
