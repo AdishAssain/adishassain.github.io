@@ -1,25 +1,4 @@
-<div style="float:left; padding-right:20px;">
-    ![banner](https://github.com/AdishAssain/adishassain.github.io/blob/main/_ab54b000-a8ab-4523-a17f-fb90d77b8cbe.jpg)
-</div>
 
-<script>
-function toggleDarkMode() {
-    var element = document.body;
-    element.classList.toggle("dark-mode");
-}
-</script>
-
-<style>
-body {
-    transition: background-color 0.5s ease;
-}
-.dark-mode {
-    background-color: #333;
-    color: #fff;
-}
-</style>
-
-<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
 
 
