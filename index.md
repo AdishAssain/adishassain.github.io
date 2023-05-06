@@ -1,10 +1,4 @@
----
-title: Your Title
-description: Your Description
----
 
-
-{% include sidebar.html %}
 {% include scripts.html %}
 
 
