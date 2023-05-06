@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-<div style="display:flex; align-items:center; margin-bottom: 30px;">
-  <img src="/images/profile-pic.png" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 20px;">
-  <h1>{{ page.title }}</h1>
-</div>
 
 {% include scripts.html %}
 
