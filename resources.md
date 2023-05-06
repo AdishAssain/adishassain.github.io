@@ -65,6 +65,18 @@
 - [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
 - [Econometrics](https://climateestimate.net/content/getting-started.html)
 
+
+<div style="background-color:#f2f2f2; padding: 20px; text-align: center;">
+    <p>
+        <a href="{{ '/resources.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Resources</a>
+        <span style="color: #333;"> | </span>
+        <a href="{{ '/contact.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Contact</a>
+        <span style="color: #333;"> | </span>
+        <a href="{{ '/blog.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Blog</a>
+    </p>
+    <p style="font-size: 14px;">&copy; 2023 Adish Assain. All Rights Reserved.</p>
+</div>
+
 ## Miscellaneous
 
 - [The Lindy Effect](https://erenasena13.medium.com/the-lindy-effect-the-concept-and-the-math-2b56a76b053a)
