@@ -17,3 +17,9 @@ I find inspiration in the works of continental philosophers such as Gilles Deleu
 
 
 
+<div style="background-color:#f2f2f2; padding: 20px;">
+    <p style="text-align: center;">
+        <a href="{{ '/resources.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold;">Resources</a>
+    </p>
+    <p style="text-align: center; font-size: 14px;">&copy; 2023 Adish Assain. All Rights Reserved.</p>
+</div>
