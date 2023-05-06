@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div class="main">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</div>
+
+{% include sidebar.html %}
 {% include scripts.html %}
 
 
