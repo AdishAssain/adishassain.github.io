@@ -62,17 +62,17 @@
 - [Unified Complex Network and Recurrence Analysis Toolbox (pyunicorn)](https://github.com/pik-copan/pyunicorn)
 - [NetworkX](https://github.com/networkx)
 - [graph-tool](https://graph-tool.skewed.de/)
-- https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909
-- https://climateestimate.net/content/getting-started.html
+- [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
+- [Econometrics](https://climateestimate.net/content/getting-started.html)
 
 ## Miscellaneous
 
 - [The Lindy Effect](https://erenasena13.medium.com/the-lindy-effect-the-concept-and-the-math-2b56a76b053a)
-- https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari
-- https://scroll.in/article/832980/why-i-dont-advocate-vegetarianism-indian-environmentalist-sunita-narain-explains-her-position
-- https://time.com/6176998/india-heatwaves-western-architecture/
-- https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/
-- https://en.wikipedia.org/wiki/Regulatory_capture
+- [Harari's populism](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)
+- [Vegitarianism: Sunita Narain](https://scroll.in/article/832980/why-i-dont-advocate-vegetarianism-indian-environmentalist-sunita-narain-explains-her-position)
+- [India- Heatwave and Architecture](https://time.com/6176998/india-heatwaves-western-architecture/)
+- [Who are the real experts of climate change adaptation](https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/)
+- [Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)
 - [Tutorial- Python Modules](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
 - [Master Equation- Statistical Physics](https://statisticalphysics.leima.is/nonequilibrium/master-eqn.html)
 
