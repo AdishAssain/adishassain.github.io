@@ -55,6 +55,8 @@
 - Way of Seeing: John Berger
 - When We Cease to Understand the World: Labatut Benjamin
 - People's Planning: T.M Thomas Issac and Richard W. Franke
+- Gödel, Escher, Bach: Douglas Hofstadter
+- The Emperor's New Mind: Roger Penrose
 
 ## Python resources
 
@@ -64,6 +66,21 @@
 - [graph-tool](https://graph-tool.skewed.de/)
 - [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
 - [Econometrics](https://climateestimate.net/content/getting-started.html)
+
+## Tools
+
+- [Complexity Explorables](https://www.complexity-explorables.org/explorables/)
+- [Obsedian](https://obsidian.md/)
+- [Media Bias/Fact Check extension](https://chrome.google.com/webstore/detail/media-biasfact-check-exte/ganicjnkcddicfioohdaegodjodcbkkh)
+- [Connected papers](https://www.connectedpapers.com/)
+- [Vensim for system dynamics simulation](https://vensim.com/)
+- [HackMD for real time collaboration](https://hackmd.io/)
+
+## Recreational Mathematics
+
+- [Cut the knot](https://www.cut-the-knot.org/)
+- [3blue1brown](https://www.3blue1brown.com/)
+- [Martin Gardner](https://martin-gardner.org/)
 
 
 ## Miscellaneous
