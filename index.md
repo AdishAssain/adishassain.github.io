@@ -9,6 +9,7 @@ function toggleDarkMode() {
 }
 </script>
 
+<style>
 body {
     transition: background-color 0.5s ease;
 }
@@ -16,8 +17,10 @@ body {
     background-color: #333;
     color: #fff;
 }
+</style>
 
 <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
 
 
 # Conflicts and Conversations
