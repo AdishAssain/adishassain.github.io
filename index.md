@@ -1,3 +1,25 @@
+<div style="float:left; padding-right:20px;">
+    ![banner](https://github.com/AdishAssain/adishassain.github.io/blob/main/_ab54b000-a8ab-4523-a17f-fb90d77b8cbe.jpg)
+</div>
+
+<script>
+function toggleDarkMode() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+}
+</script>
+
+body {
+    transition: background-color 0.5s ease;
+}
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+
 # Conflicts and Conversations
 
 [Complex adaptive systems](https://www.youtube.com/watch?v=BfnY9gn6ktk) are characterized by the emergence of novel behaviors that cannot be predicted by conventional models, presenting unique challenges known as 'wicked problems'. These challenges are marked by deep uncertainty and interconnectedness, which make them difficult to define, comprehend, and resolve.  To address such complex issues, a variety of frameworks and perspectives have been employed to explore the emergent properties of these systems and uncover patterns of behavior that can inform decision-making and interventions.
