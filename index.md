@@ -1,5 +1,5 @@
 
-
+{% include scripts.html %}
 
 
 # Conflicts and Conversations
