@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Your Title
+description: Your Description
 ---
 
 
