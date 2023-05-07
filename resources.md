@@ -94,9 +94,10 @@
 - [Tutorial- Python Modules](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
 - [Master Equation- Statistical Physics](https://statisticalphysics.leima.is/nonequilibrium/master-eqn.html)
 
-
 <div style="background-color:#f2f2f2; padding: 20px; text-align: center;">
     <p>
+        <a href="{{ '/' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Home</a>
+        <span style="color: #333;"> | </span>
         <a href="{{ '/resources.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Resources</a>
         <span style="color: #333;"> | </span>
         <a href="{{ '/contact.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Contact</a>
@@ -105,3 +106,4 @@
     </p>
     <p style="font-size: 14px;"> &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}</p>
 </div>
+
