@@ -12,5 +12,5 @@
     <span style="color: #333;"> | </span>
     <a href="{{ '/blog.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Blog</a>
   </p>
-  <p style="font-size: 14px; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">&copy; 2023 Adish Assain. All Rights Reserved.</p>
+  <p style="font-size: 14px; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);"> &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}</p>
 </div>
