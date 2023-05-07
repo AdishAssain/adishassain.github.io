@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.site-logo img {
+.logo-img {
   border-radius: 50%;
+  max-width: 100%;
 }
