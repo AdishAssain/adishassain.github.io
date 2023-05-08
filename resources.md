@@ -27,7 +27,9 @@
 
 - [Python Object-Oriented Programming Tutorial](https://youtu.be/ZDa-Z5JzLYM)
 - [Correlation - NN Taleb](https://www.youtube.com/watch?v=o9Ac85xdjE4)
+- [A conversation between Nassim Nicholas Taleb and Stephen Wolfram](https://www.youtube.com/watch?v=_8j1XZ0N_wE)
 - [Criticality](https://youtu.be/hjGFp7lMi9A)
+- [Directed percolation and Sandpile models - 1 by Deepak Dhar](https://www.youtube.com/watch?v=30WNNl5Fj7s)
 - [Rate-Induced Tipping in Asymptotically Autonomous Dynamical Systems by Sebastian Wieczorek](https://www.youtube.com/live/hz0Df9worVQ?feature=share)
 - [Lyapunov's fractal](https://youtu.be/yGwy2WyQCQE)
 - [Feynman's technique](https://youtu.be/XnvFr2w2gUI)
