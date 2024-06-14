@@ -35,7 +35,7 @@
 - [`SALib` for Sensitivity Analysis](https://github.com/SALib/SALib)
 - [`pyunicorn` Unified Complex Network and Recurrence Analysis Toolbox](https://github.com/pik-copan/pyunicorn)
 - [`NetworkX`](https://github.com/networkx)
-- [`pystan`](https://pystan.github.io/)
+- [`pystan`](https://pypi.org/project/pystan/)
 - [`graph-tool`](https://graph-tool.skewed.de/)
 - [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
 - [Econometrics](https://climateestimate.net/content/getting-started.html)
