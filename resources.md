@@ -43,6 +43,8 @@
 ## Tools
 
 - [Built With](https://builtwith.com/)
+- [System Dynamics Insight Maker](https://insightmaker.com/docs/systemdynamics)
+- [Tinkercad](https://www.tinkercad.com/)
 - [Complexity Explorables](https://www.complexity-explorables.org/explorables/)
 - [Obsidian](https://obsidian.md/)
 - [Connected papers](https://www.connectedpapers.com/)
