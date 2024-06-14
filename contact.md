@@ -1,8 +1,7 @@
 # Contact
 
-&#x2709; Email: <a href="mailto:adish.illikkal@students.iiserpune.ac.in">adish.illikkal@students.iiserpune.ac.in</a><br>
-&#x2709; Email (personal): <a href="mailto:adishai99@gmail.com">adishai99@gmail.com</a><br>
-&#x1F3E0; Address: Hostel 1, IISER Pune, Pune, MH, IN, 411008
+&#x2709; Email: <a href="mailto:adish@artpark.in">adish@artpark.in</a><br>
+&#x1F3E0; Address: Bengaluru, KA, India
 
 
 <footer>
@@ -17,4 +16,3 @@
   </div>
   <p> &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}</p>
 </footer>
-

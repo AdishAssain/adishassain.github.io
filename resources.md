@@ -13,6 +13,12 @@
 - [Adaptive Networks: Theory, Models and Applications (Understanding Complex Systems)](https://www.amazon.com/Adaptive-Networks-Applications-Understanding-Complex/dp/3642012833)
 - [Statistical mechanics of complex networks](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47)
 
+### Epidemiology
+
+- [EMOD Generic Model Overview](https://docs.idmod.org/projects/emod-malaria/en/2.20_a/model-overview.html)
+- [World Health Organization. (2016). Technical handbook for dengue surveillance, outbreak prediction/detection and outbreak response. World Health Organization.](https://iris.who.int/handle/10665/250240)
+- [`openmalaria`](https://github.com/SwissTPH/openmalaria)
+
 ### Socio-ecological systems
 
 - [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://library.oapen.org/handle/20.500.12657/49560)
@@ -23,8 +29,30 @@
 - [Socio-technical scales in socio-environmental modeling: Managing a system-of-systems modeling approach](https://www.sciencedirect.com/science/article/abs/pii/S1364815220309427)
 
 
+## Python resources
+
+- [`PEP 8`](https://peps.python.org/pep-0008/)
+- [`SALib` for Sensitivity Analysis](https://github.com/SALib/SALib)
+- [`pyunicorn` Unified Complex Network and Recurrence Analysis Toolbox](https://github.com/pik-copan/pyunicorn)
+- [`NetworkX`](https://github.com/networkx)
+- [`pystan`](https://pystan.github.io/)
+- [`graph-tool`](https://graph-tool.skewed.de/)
+- [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
+- [Econometrics](https://climateestimate.net/content/getting-started.html)
+
+## Tools
+
+- [Built With](https://builtwith.com/)
+- [Complexity Explorables](https://www.complexity-explorables.org/explorables/)
+- [Obsidian](https://obsidian.md/)
+- [Connected papers](https://www.connectedpapers.com/)
+- [Vensim for system dynamics simulation](https://vensim.com/)
+- [HackMD for real time collaboration](https://hackmd.io/)
+
+
 ## Videos
 
+- [On Jupyter notebooks](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [Python Object-Oriented Programming Tutorial](https://youtu.be/ZDa-Z5JzLYM)
 - [Correlation - NN Taleb](https://www.youtube.com/watch?v=o9Ac85xdjE4)
 - [A conversation between Nassim Nicholas Taleb and Stephen Wolfram](https://www.youtube.com/watch?v=_8j1XZ0N_wE)
@@ -43,8 +71,10 @@
 - [you're a dictador planning to rule the world](https://www.youtube.com/watch?v=m2Pa9j88fT0)
 - [Hot ones- Gordon Ramsay](https://youtu.be/GJlNvSC5v6s)
 
+
 ## Books
 
+- Matt J. Keeling and Pejman Rohani Modeling Infectious Diseases in Humans and Animals
 - A History of Western Philosophy: Bertrand Russell
 - Salmon Fishing in the Yemen: Paul Torday
 - Escape from Model Land: Erica Thompson
@@ -58,25 +88,10 @@
 - When We Cease to Understand the World: Labatut Benjamin
 - People's Planning: T.M Thomas Issac and Richard W. Franke
 - Gödel, Escher, Bach: Douglas Hofstadter
+- I Am a Strange Loop: Douglas Hofstadter
+- Signals and Boundaries: Building Blocks for Complex Adaptive Systems: John H. Holland
 - The Emperor's New Mind: Roger Penrose
 
-## Python resources
-
-- [SALib for Sensitivity Analysis](https://github.com/SALib/SALib)
-- [Unified Complex Network and Recurrence Analysis Toolbox (pyunicorn)](https://github.com/pik-copan/pyunicorn)
-- [NetworkX](https://github.com/networkx)
-- [graph-tool](https://graph-tool.skewed.de/)
-- [Handling NetCDF](https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f?gi=4b312f165909)
-- [Econometrics](https://climateestimate.net/content/getting-started.html)
-
-## Tools
-
-- [Complexity Explorables](https://www.complexity-explorables.org/explorables/)
-- [Obsedian](https://obsidian.md/)
-- [Media Bias/Fact Check extension](https://chrome.google.com/webstore/detail/media-biasfact-check-exte/ganicjnkcddicfioohdaegodjodcbkkh)
-- [Connected papers](https://www.connectedpapers.com/)
-- [Vensim for system dynamics simulation](https://vensim.com/)
-- [HackMD for real time collaboration](https://hackmd.io/)
 
 ## Recreational Mathematics
 
@@ -85,16 +100,24 @@
 - [Martin Gardner](https://martin-gardner.org/)
 
 
+## Citizen Science
+
+- [GLOBE Observer](https://observer.globe.gov/)
+- [iNaturalist](https://www.inaturalist.org)
+- [Terminology](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.96)
+
+
 ## Miscellaneous
 
+- [National Data & Analytics Platform](https://ndap.niti.gov.in/)
 - [The Lindy Effect](https://erenasena13.medium.com/the-lindy-effect-the-concept-and-the-math-2b56a76b053a)
 - [Harari's populism](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)
 - [Vegitarianism: Sunita Narain](https://scroll.in/article/832980/why-i-dont-advocate-vegetarianism-indian-environmentalist-sunita-narain-explains-her-position)
+- [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 - [India- Heatwave and Architecture](https://time.com/6176998/india-heatwaves-western-architecture/)
 - [Who are the real experts of climate change adaptation](https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/)
 - [Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)
 - [Tutorial- Python Modules](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
-- [Master Equation- Statistical Physics](https://statisticalphysics.leima.is/nonequilibrium/master-eqn.html)
 
 <div style="background-color:#f2f2f2; padding: 20px; text-align: center;">
     <p>
