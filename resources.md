@@ -50,6 +50,7 @@
 - [Connected papers](https://www.connectedpapers.com/)
 - [Vensim for system dynamics simulation](https://vensim.com/)
 - [HackMD for real time collaboration](https://hackmd.io/)
+- [Model Experimentation](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-experimentation/)
 
 
 ## Videos
