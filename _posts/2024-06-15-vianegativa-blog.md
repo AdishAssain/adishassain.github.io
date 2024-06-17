@@ -3,6 +3,7 @@ layout: post
 title: Model Development Via Negativa
 date: 2024-06-15
 author: Adish
+tags: [model validation, documentation, reproducibility, expert elicitation]
 ---
 Often we focus on positive knowledge, or "what something is". This approach is intuitive; after all, knowing what works seems like the most direct path to improving systems and models. "Via negativa" suggests that true understanding often comes not from affirming what we know, but from eliminating what we don't need or what doesn't work.
 
