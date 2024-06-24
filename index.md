@@ -14,10 +14,6 @@ I am Adish Assain Illikkal, with a background in mathematical modelling and inte
 
 At the [Indian Institute of Science Education and Research, Pune](https://www.iiserpune.ac.in/), I have worked on a variety of topics involving resilience and sustainability ranging from to earth systems to socio-ecological systems under [Dr Amit Apte](https://icts.res.in/people/amit-apte).  I have used mathematical methods and concepts including dynamical systems theory, stability analysis, generalised modelling, and complex networks  in a diverse range of projects. 
 
-
-The interdisciplinary nature of my work has emphasised the critical role of collaboration in addressing systemic problems, from conceptualisation through to implementation. Collaboration is a cornerstone for achieving impactful results, as it fosters a creative and challenging environment where different perspectives can merge and lead to more robust and reliable outcomes. Its true strength lies not in the mere interaction of disciplines, but in the profound and transformative connections that emerge from the friction of disparate ideas. Conflict, inevitable in such interactions, should not be feared but rather embraced as a catalyst for creative breakthroughs. The pursuit of understanding complex systems is a never-ending journey that requires constant exploration and a willingness to challenge our own assumptions.
-
-
 I find inspiration in the works of continental philosophers such as Gilles Deleuze. In the realm of cultural interests, I appreciate social commentary podcasts, top-class cinema, hip-hop, world music, and pre-modern aesthetics, among others.
 
 
