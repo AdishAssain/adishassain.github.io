@@ -18,6 +18,9 @@
 - [EMOD Generic Model Overview](https://docs.idmod.org/projects/emod-malaria/en/2.20_a/model-overview.html)
 - [World Health Organization. (2016). Technical handbook for dengue surveillance, outbreak prediction/detection and outbreak response. World Health Organization.](https://iris.who.int/handle/10665/250240)
 - [`openmalaria`](https://github.com/SwissTPH/openmalaria)
+- [Zoonotic Web](https://vis.csh.ac.at/zoonotic-web/) - Interactive visualization of zoonotic disease networks
+- [EpiTools](https://epitools.ausvet.com.au/freecalcone) - Epidemiological calculators and tools
+- [CDC FluSight](https://github.com/cdcepi/FluSight-forecast-hub) - Collaborative hub for influenza forecasting
 
 ### Socio-ecological systems
 
@@ -51,7 +54,10 @@
 - [Vensim for system dynamics simulation](https://vensim.com/)
 - [HackMD for real time collaboration](https://hackmd.io/)
 - [Model Experimentation](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-experimentation/)
-
+- [The Pudding](https://pudding.cool/) - Visual essays on culture and society
+- [Penrose](https://penrose.cs.cmu.edu/blog/bloom) - Beautiful mathematical diagrams through programming
+- [Evolution of Trust](https://ncase.me/trust/) - Interactive game theory exploration
+- [BharatSim](https://bharatsim.ashoka.edu.in/) - Agent-based modeling platform for epidemiological simulations in India
 
 ## Videos
 
@@ -103,13 +109,6 @@
 - [Martin Gardner](https://martin-gardner.org/)
 
 
-## Citizen Science
-
-- [GLOBE Observer](https://observer.globe.gov/)
-- [iNaturalist](https://www.inaturalist.org)
-- [Terminology](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.96)
-
-
 ## Miscellaneous
 
 - [National Data & Analytics Platform](https://ndap.niti.gov.in/)
@@ -120,7 +119,6 @@
 - [India- Heatwave and Architecture](https://time.com/6176998/india-heatwaves-western-architecture/)
 - [Who are the real experts of climate change adaptation](https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/)
 - [Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)
-- [Tutorial- Python Modules](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
 
 <div style="background-color:#f2f2f2; padding: 20px; text-align: center;">
     <p>
@@ -132,6 +130,6 @@
         <span style="color: #333;"> | </span>
         <a href="{{ '/blog.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Blog</a>
     </p>
-    <p style="font-size: 14px;"> &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}</p>
+    <p style="font-size: 14px;"> &copy; {{ site.author }}. Some Rights Reserved. <span class="current-year"></span></p>
 </div>
 
