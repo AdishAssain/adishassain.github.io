@@ -120,16 +120,5 @@
 - [Who are the real experts of climate change adaptation](https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/)
 - [Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)
 
-<div style="background-color:#f2f2f2; padding: 20px; text-align: center;">
-    <p>
-        <a href="{{ '/' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Home</a>
-        <span style="color: #333;"> | </span>
-        <a href="{{ '/resources.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Resources</a>
-        <span style="color: #333;"> | </span>
-        <a href="{{ '/contact.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Contact</a>
-        <span style="color: #333;"> | </span>
-        <a href="{{ '/blog.html' | relative_url }}" style="color: #333; text-decoration: none; font-weight: bold; padding: 5px; border-radius: 5px; transition: background-color 0.2s ease;">Blog</a>
-    </p>
-    <p style="font-size: 14px;"> &copy; {{ site.author }}. Some Rights Reserved. <span class="current-year"></span></p>
-</div>
 
+{% include footer.html %}
