@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-logo: images/profile-pic.png
-title: Adish's homepage
+logo: assets/images/profile-pic.png
+title: Adish Assain 
 description: "<i>“We don't want to focus on the trees (or their leaves) at the expense of the forest.”</i> - <span style='font-family: cursive;'>Douglas R. Hofstadter</span>"
-author: Adish Assain
+author: Adish Assain Illikkal
+sass:
+  sass_dir: assets/css

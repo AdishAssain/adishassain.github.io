@@ -9,5 +9,3 @@ I am Adish Assain Illikkal, with a background in mathematical modelling and inte
 At the [Indian Institute of Science Education and Research, Pune](https://www.iiserpune.ac.in/), I have worked on a variety of topics involving resilience and tipping points ranging from to earth systems to socio-ecological systems under [Dr Amit Apte](https://icts.res.in/people/amit-apte).  I have applied mathematical methods and concepts, including dynamical systems theory, stability analysis, generalised modelling, and complex networks, across a range of projects.
 
 I find inspiration in the works of continental philosophers such as Gilles Deleuze, as well as in the works of Andrei Saltelli and Nassim Taleb. I also appreciate cultural pursuits such as social commentary podcasts, top-class cinema, hip-hop, world music, and pre-modern aesthetics, among others.
-
-{% include footer.html %}

@@ -5,36 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
 </head>
 <body>
   <div class="wrapper">
     <header>
       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <img src="https://github.com/AdishAssain/adishassain.github.io/blob/main/assets/banner.jpg?raw=true" alt="banner" style="float:left; padding-right:20px;">
+      <img src="{{ site.logo | relative_url }}" alt="Logo">
       <p>{{ site.description }}</p>
     </header>
-    
     <section>
       {{ content }}
     </section>
-
     <footer>
       {% include footer.html %}
     </footer>
   </div>
-
-  <!-- Dark Mode Toggle Script -->
-  <script>
-    function toggleDarkMode() {
-      var element = document.body;
-      element.classList.toggle("dark-mode");
-    }
-  </script>
-
-  <!-- Dark Mode Toggle Switch -->
-  <label class="switch">
-    <input type="checkbox" onclick="toggleDarkMode()">
-    <span class="slider round"></span>
-  </label>
 </body>
 </html>

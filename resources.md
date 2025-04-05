@@ -119,6 +119,3 @@
 - [India- Heatwave and Architecture](https://time.com/6176998/india-heatwaves-western-architecture/)
 - [Who are the real experts of climate change adaptation](https://rethink.earth/who-are-the-real-experts-of-climate-change-adaptation/)
 - [Regulatory Capture](https://en.wikipedia.org/wiki/Regulatory_capture)
-
-
-{% include footer.html %}
