@@ -14,6 +14,12 @@
       <img src="{{ site.logo | relative_url }}" alt="Logo">
       <p>{{ site.description }}</p>
     </header>
+    <!-- Add banner image here -->
+    {% if page.url == "/" %}
+    <div class="banner">
+      <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="banner" class="banner-image">
+    </div>
+    {% endif %}
     <section>
       {{ content }}
     </section>

@@ -1,16 +1,17 @@
 @import "{{ site.theme }}";
 
-.logo-img {
-  border-radius: 50%;
-  max-width: 100%;
-}
-
+/* Base styles */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
+body {
+  transition: background-color 0.5s ease;
+}
+
+/* Layout */
 .wrapper {
   max-width: 960px;
   margin: 0 auto;
@@ -19,34 +20,45 @@ html, body {
   background: none;
 }
 
-.content {
-  flex: 1;
+/* Header styles */
+header {
+  position: relative;
+  width: 100%;
+  float: none;
+  
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+  }
+  
+  p {
+    clear: both;
+  }
 }
 
-/* Dark Mode Styles */
-body {
-  transition: background-color 0.5s ease;
+/* Banner styles */
+.banner {
+  width: 100%;
+  margin: 20px 0 30px 0;
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
 }
 
-body.dark-mode {
-  background-color: #1a1a1a;
-  color: #e6e6e6;
-}
-
-body.dark-mode a {
-  color: #66b3ff;
-}
-
-body.dark-mode header {
-  background-color: #262626;
-}
-
-/* Toggle Switch Styles */
+/* Dark Mode Toggle */
 .theme-switch-wrapper {
   position: fixed;
   top: 20px;
   right: 20px;
   z-index: 999;
+  background: white;
+  padding: 5px;
+  border-radius: 34px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .switch {
@@ -59,14 +71,6 @@ body.dark-mode header {
     opacity: 0;
     width: 0;
     height: 0;
-    
-    &:checked + .slider {
-      background-color: #2196F3;
-      
-      &:before {
-        transform: translateX(26px);
-      }
-    }
   }
 }
 
@@ -94,15 +98,15 @@ body.dark-mode header {
   }
 }
 
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
+input:checked + .slider {
+  background-color: #2196F3;
+  
+  &:before {
+    transform: translateX(26px);
+  }
 }
 
-.slider.round:before {
-  border-radius: 50%;
-}
-
+/* Footer styles */
 .footer {
   text-align: center;
   margin-top: 40px;
@@ -116,15 +120,19 @@ body.dark-mode header {
       display: inline-block;
       padding: 0 10px;
       text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      transition: color 0.2s ease;
       
       &:hover {
+        color: #2196F3;
         text-decoration: underline;
       }
     }
     
     .separator {
       color: #666;
-      user-select: none;  /* Prevents separator from being selected */
+      user-select: none;
     }
   }
 
@@ -134,46 +142,21 @@ body.dark-mode header {
   }
 }
 
-/* Dark mode adjustments for footer */
-body.dark-mode .footer {
-  border-top-color: #333;
+/* Blog posts */
+.posts article {
+  margin-bottom: 40px;
   
-  .separator {
-    color: #999;
-  }
-  
-  .copyright {
-    color: #999;
+  .post-date {
+    color: #666;
+    font-style: italic;
   }
 }
 
-.footer a {
-  display: inline-block;
-  padding: 0 10px;
-  color: #333;
-  text-decoration: none;
-  font-weight: bold;
-  transition: background-color 0.2s ease;
-}
-
-.footer a:hover {
-  text-decoration: none;
-  color: #2196F3;
-}
-
-.posts {
-  article {
-    margin-bottom: 40px;
-    
-    .post-date {
-      color: #666;
-      font-style: italic;
-    }
-  }
-}
-
-/* Dark mode specific overrides */
+/* Dark mode styles */
 body.dark-mode {
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+  
   .wrapper {
     background: none;
   }
@@ -182,51 +165,32 @@ body.dark-mode {
     color: #fff;
   }
   
-  section {
-    color: #e6e6e6;
+  a {
+    color: #66b3ff;
+    
+    &:hover {
+      color: #99ccff;
+    }
   }
   
-  footer {
-    color: #999;
+  .theme-switch-wrapper {
+    background: #333;
+  }
+  
+  .slider {
+    background-color: #666;
+  }
+  
+  .footer {
+    border-top-color: #333;
     
-    a {
-      color: #66b3ff;
-      
-      &:hover {
-        color: #99ccff;
-      }
+    .separator, .copyright {
+      color: #999;
     }
   }
   
   code {
     background-color: #333;
     color: #f0f0f0;
-  }
-}
-
-header {
-  position: relative;
-  width: 100%;
-  float: none;
-  
-  img {
-    max-width: 100%;
-    display: block;
-    margin: 20px 0;
-  }
-  
-  p {
-    clear: both;
-  }
-}
-
-.banner {
-  width: 100%;
-  margin-bottom: 30px;
-  
-  .banner-image {
-    width: 100%;
-    height: auto;
-    display: block;
   }
 }
