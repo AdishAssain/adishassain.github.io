@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on Communicating the Purpose of Models and Data Infrastructure to Stakeholders
-date: 2025-03-28
+date: 2025-04-05
 author: Adish
 tags: [stakeholder engagement, model communication, epidemiology]
 ---

@@ -5,3 +5,8 @@ description: "<i>“We don't want to focus on the trees (or their leaves) at the
 author: Adish Assain Illikkal
 sass:
   sass_dir: assets/css
+plugins:
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page:num/"

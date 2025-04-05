@@ -1,4 +1,7 @@
-{% include scripts.html %}
+---
+layout: default
+title: Home
+---
 
 # Conflicts and Conversations
 

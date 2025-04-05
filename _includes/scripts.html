@@ -28,13 +28,30 @@
     function toggleDarkMode() {
       var element = document.body;
       element.classList.toggle("dark-mode");
+      
+      // Save preference to localStorage
+      if (element.classList.contains("dark-mode")) {
+        localStorage.setItem("darkMode", "enabled");
+      } else {
+        localStorage.setItem("darkMode", "disabled");
+      }
     }
+
+    // Check for saved dark mode preference on load
+    document.addEventListener("DOMContentLoaded", function() {
+      if (localStorage.getItem("darkMode") === "enabled") {
+        document.body.classList.add("dark-mode");
+        document.querySelector(".switch input").checked = true;
+      }
+    });
   </script>
 
   <!-- Dark Mode Toggle Switch -->
-  <label class="switch">
-    <input type="checkbox" onclick="toggleDarkMode()">
-    <span class="slider round"></span>
-  </label>
+  <div class="theme-switch-wrapper">
+    <label class="switch">
+      <input type="checkbox" onclick="toggleDarkMode()">
+      <span class="slider round"></span>
+    </label>
+  </div>
 </body>
 </html>
