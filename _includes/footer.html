@@ -1,14 +1,14 @@
 <div class="footer">
-    <p>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <span class="separator"> | </span>
-      <a href="{{ '/resources.html' | relative_url }}">Resources</a>
-      <span class="separator"> | </span>
-      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
-      <span class="separator"> | </span>
-      <a href="{{ '/blog.html' | relative_url }}">Blog</a>
-    </p>
+    <nav class="footer-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <span class="separator">|</span>
+        <a href="{{ '/resources.html' | relative_url }}">Resources</a>
+        <span class="separator">|</span>
+        <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+        <span class="separator">|</span>
+        <a href="{{ '/blog.html' | relative_url }}">Blog</a>
+    </nav>
     <p class="copyright">
-      &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}
+        &copy; {{ site.author }}. Some Rights Reserved. {{ "now" | date: "%Y" }}
     </p>
-  </div>
+</div>
